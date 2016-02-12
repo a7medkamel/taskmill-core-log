@@ -6,4 +6,6 @@ process.on('uncaughtException', function (err) {
   console.error(err.stack);
 });
 
-http.listen();
+http.listen({}, () => {
+ console.log('Started!');
+});
