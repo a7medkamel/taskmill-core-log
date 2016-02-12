@@ -1,8 +1,10 @@
 {
 	"http" : {
-    "protocol"    : "https",
-    "hostname"    : "taskmill.io",
+    // "protocol"    : "https",
+    // "hostname"    : "taskmill.io",
     // "hostname"    : "logs.taskmill.io",
+    "protocol"    : "http",
+    "hostname"    : "localhost",
     "port"        : 8787
   },
   "log" : {
