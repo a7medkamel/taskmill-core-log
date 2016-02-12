@@ -17,6 +17,8 @@
     "fs-reap": "^2.0.0",
     "gcloud": "^0.28.0",
     "lodash": "^4.3.0",
+    "mime-db": "^1.21.0",
+    "mime-type": "^3.0.4",
     "on-finished": "^2.3.0",
     "url-join": "0.0.1"
   }
