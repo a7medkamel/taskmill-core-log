@@ -12,6 +12,7 @@
     "bluebird": "^3.2.2",
     "bluebird-retry": "^0.5.3",
     "config": "^1.19.0",
+    "content-type": "^1.0.1",
     "express": "^4.13.4",
     "fs-extra": "^0.26.5",
     "fs-reap": "^2.0.0",
