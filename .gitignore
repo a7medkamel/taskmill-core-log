@@ -34,4 +34,5 @@ node_modules
 
 config/local.json
 
+.cache
 .tmp

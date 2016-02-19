@@ -10,17 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.2.2",
-    "bluebird-retry": "^0.5.3",
     "config": "^1.19.0",
     "content-type": "^1.0.1",
     "express": "^4.13.4",
     "fs-extra": "^0.26.5",
-    "fs-reap": "^2.0.0",
     "gcloud": "^0.28.0",
     "lodash": "^4.3.0",
     "mime-db": "^1.21.0",
     "mime-type": "^3.0.4",
+    "node-cache": "^3.1.0",
     "on-finished": "^2.3.0",
+    "parse-cache-control": "^1.0.1",
     "url-join": "0.0.1"
   }
 }
