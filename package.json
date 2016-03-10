@@ -9,18 +9,19 @@
   "author": "a7medkamel <ak@ahmedkamel.net>",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.3.3",
+    "bluebird": "^3.3.4",
     "config": "^1.19.0",
     "content-type": "^1.0.1",
     "express": "^4.13.4",
     "fs-extra": "^0.26.5",
-    "gcloud": "^0.28.0",
-    "lodash": "^4.6.0",
+    "gcloud": "^0.29.0",
+    "lodash": "^4.6.1",
     "mime-db": "^1.22.0",
     "mime-type": "^3.0.4",
     "node-cache": "^3.2.0",
     "on-finished": "^2.3.0",
     "parse-cache-control": "^1.0.1",
-    "url-join": "0.0.1"
+    "url-join": "0.0.1",
+    "winston": "^2.2.0"
   }
 }

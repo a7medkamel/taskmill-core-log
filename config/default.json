@@ -1,13 +1,8 @@
 {
-	"http" : {
-    // "protocol"    : "https",
-    // "hostname"    : "taskmill.io",
-    // "hostname"    : "logs.taskmill.io",
+  "log" : {
     "protocol"    : "http",
     "hostname"    : "localhost",
-    "port"        : 8787
-  },
-  "log" : {
+    "port"        : 8787,
   	// "max-age" 		: 7200 // 2 hours
   	"max-age" 		: 604800 // 1 week
   }
