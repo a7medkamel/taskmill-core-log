@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "taskmill-core-logs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,6 +22,7 @@
     "on-finished": "^2.3.0",
     "parse-cache-control": "^1.0.1",
     "url-join": "0.0.1",
-    "winston": "^2.2.0"
+    "winston": "^2.2.0",
+    "config-url": "git+https://github.com/a7medkamel/config-url.git"
   }
 }
