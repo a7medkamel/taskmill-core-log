@@ -11,6 +11,7 @@
   "dependencies": {
     "bluebird": "^3.3.4",
     "config": "^1.19.0",
+    "config-url": "git+https://github.com/a7medkamel/config-url.git",
     "content-type": "^1.0.1",
     "express": "^4.13.4",
     "fs-extra": "^0.26.5",
@@ -21,8 +22,8 @@
     "node-cache": "^3.2.0",
     "on-finished": "^2.3.0",
     "parse-cache-control": "^1.0.1",
+    "safe-json-parse": "^4.0.0",
     "url-join": "0.0.1",
-    "winston": "^2.2.0",
-    "config-url": "git+https://github.com/a7medkamel/config-url.git"
+    "winston": "^2.2.0"
   }
 }
