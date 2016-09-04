@@ -4,8 +4,8 @@ var winston = require('winston')
   ;
 
 process.on('uncaughtException', function (err) {
-  console.error(new Date().toUTCString(), 'uncaughtException', err.message);
-  console.error(err.stack);
+  winston.error(new Date().toUTCString(), 'uncaughtException', err.message);
+  winston.error(err.stack);
 });
 
 function main() {
